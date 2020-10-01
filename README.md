@@ -12,7 +12,7 @@
 - :pencil2: I’m currently working on [Pencillabs](https://www.pencillabs.com.br/)
 - :robot: I’m currently learning Human-Computer Interaction
 
-## :mailbox_with_mail: Find me and get in touch
+### :mailbox_with_mail: Find me and get in touch
 
 - :iphone: Find me on [Telegram](https://t.me/LeoSilvaGomes)
 - :email: leonardodasigomes@gmail.com
