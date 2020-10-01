@@ -3,7 +3,7 @@
 ### :tada: About Me
 
 - :ledger: Software engineering student
-- :art: Fascinated about the involvement of art and technology :computer:
+- :art: Fascinated about the involvement between art and technology :computer:
 - :deciduous_tree: Lover of nature and animals :dog:
 
 ### :eyes: What I am doing
