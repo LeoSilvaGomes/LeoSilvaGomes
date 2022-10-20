@@ -10,7 +10,7 @@
 
 - :rainbow: I’m currently studying React and Node
 - :pencil2: I’m currently working on [Gympass](https://site.gympass.com/br/)
-- :robot: I’m currently learning Clean Clode
+- :robot: I’m currently learning Design Patterns
 ### :mailbox_with_mail: Find me and get in touch
 
 - :iphone: Find me on [Telegram](https://t.me/LeoSilvaGomes)
