@@ -8,7 +8,7 @@
 
 ### :eyes: What I am doing
 
-- :rainbow: I’m currently studying React and Node
+- :rainbow: I’m currently studying React and Nod
 - :pencil2: I’m currently working on [Gympass](https://site.gympass.com/br/)
 - :robot: I’m currently learning Design Patterns
 ### :mailbox_with_mail: Find me and get in touch
